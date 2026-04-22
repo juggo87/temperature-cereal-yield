@@ -1,0 +1,4 @@
+model,dependent_variable,temperature_anomaly_coef,temperature_anomaly_pvalue,n_observations,r_squared
+naive_level,cereal_yield_ton_ha,-0.07089289675879157,0.09655682779915047,10028,0.10928142680672925
+fe_level,cereal_yield_ton_ha,0.04700247205468831,0.10115506521969679,10028,0.6806144967261949
+fe_change,yield_change_pct,-1.3043350822109714,0.002671857994227093,9656,0.018518052289286602
