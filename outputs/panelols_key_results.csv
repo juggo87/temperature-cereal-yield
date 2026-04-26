@@ -1,0 +1,3 @@
+model,dependent_variable,temperature_anomaly_coef,temperature_anomaly_pvalue,temperature_anomaly_lag1_coef,temperature_anomaly_lag1_pvalue,n_observations,r_squared_within
+panel_fe_level,cereal_yield_ton_ha,0.0137610450994072,0.8959010030851446,,,10028,0.004141932932906434
+panel_fe_change,yield_change_pct,-0.7243478761446963,0.19685305922410912,2.2987106393660786,1.395793802960732e-05,9656,0.0016212398134028971
