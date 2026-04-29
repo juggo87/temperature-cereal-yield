@@ -46,3 +46,22 @@ USER = "your_github_username"
 EMAIL = "your_github_email"
 REPO = "your_repository_name"
 BRANCH = "main"
+```
+
+### 2. Update the Google Drive folder
+
+In the section `## Link Google Drive and select files`, look at the second code block.
+
+In that block, the first line is:
+
+```python
+DRIVE_FOLDER = "/content/drive/MyDrive/Colab Notebooks/Assignment/Notebook"
+```
+
+This path is specific to the original author’s Google Drive setup. To make the notebook work on your own account, you must change this folder path so that it points to the folder in your own Google Drive where you stored the notebook and the two CSV files.
+
+For example:
+
+```python
+DRIVE_FOLDER = "/content/drive/MyDrive/your_folder_name"
+```
