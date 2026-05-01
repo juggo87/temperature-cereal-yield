@@ -17,8 +17,15 @@ The repository includes:
 - `temperature_cereal_yield.ipynb`
 - `FAOSTAT_data_en_4-20-2026.csv`
 - `monthly-temperature-anomalies.csv`
+- `requirements.txt`
 
 The notebook also generates and saves several outputs during execution, including processed data files, figures, regression results and map files.
+
+## Python dependencies
+
+This repository also includes a `requirements.txt` file listing the main Python packages used in the notebook.
+
+The notebook is primarily designed to run in Google Colab, where the required packages are installed from within the notebook itself. The `requirements.txt` file is included as a reference for the project dependencies and may also be useful if you want to recreate the environment outside the default Colab setup.
 
 ## Recommended workflow for new users
 
